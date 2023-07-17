@@ -30,11 +30,11 @@ const BookList = () => {
       {
         "id": 4,
         "title": "The King",
-        "imageUrl": "https://pixabay.com/get/g3f2e14e148dcbcec9efa616c0f5c793f65916cf5cbf51294974c3753696adc38b60a6e6fa3bcc16d7903acf5adef27cc577a5c079d7e8e5f6b88051b5d9fa6b7_1280.jpg",
+        "imageUrl": "https://pixabay.com/get/gaf1d685266e85b5169dacf30ffda34fc61bd414f2bd3235b522a61dde1d4ba46513d4e772aa874ba4165a14cec0140e9_640.jpg"
       },
       {
         "id": 5,
-        "title": "Cinderella",
+        "title": "Cinderella Story",
         "imageUrl": "https://pixabay.com/get/ga496cac499eca86c9ad4926acac119ae243edb8dcaba18a741b41549051055f98621fbac97d4b156873eb287e751992e_640.jpg"
       }
     ];
