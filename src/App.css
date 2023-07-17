@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #235728;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.App {
+  text-align: center;
+}
+
+body {
+  background-image: url("https://pixabay.com/get/gf2adb2cd7e269c6e21986d62512d58e9f55150f0806a1b141922128931da39c526f5b223cb35898a2aaf71a1a6b057ac_640.jpg");
+  background-color: var(--primary-color);
 }
